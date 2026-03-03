@@ -27,7 +27,7 @@ https://raw.githack.com/mariosemes/<your-repository-name>/<branch>/index.html
 ```
 In this repos case:
 
-[https://raw.githack.com/mariosemes/SimpleClockWithDateForScreenSaver/main/index.html](https://raw.githack.com/mariosemes/SimpleClockWithDateForScreenSaver/main/index.html
+[https://raw.githack.com/meltman/SimpleClockWithDateForScreenSaver/main/index.html](https://raw.githack.com/meltman/SimpleClockWithDateForScreenSaver/main/index.html
 )
 
 Feel free to visit this URL and check out the CLOCK <3
